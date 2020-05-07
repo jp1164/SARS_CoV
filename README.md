@@ -1,2 +1,3 @@
 # SARS_CoV
-commands, phylip files and ML tree files for Phylogeny of Betacoronavirus S protein
+phylogenetic data and codes for
+Betacoronavirus Spike Protein Phylogeny
